@@ -142,6 +142,7 @@ a:hover {
     display: grid;
     grid-template-columns: 100px 100px 150px 1330px 70px 70px 70px;
     grid-template-rows: 50px;
+    background-color: #eeeeee;
     grid-template-areas: 
     "advertising business hsw . privacy terms settings";
 }
